@@ -4,7 +4,7 @@ Aplicación de modelos de redes neuronales recurrentes (RNN) para el Diplomado d
 
 ## Base de datos
 El csv usado se puede econtran en la pagina [Metro Interstate Traffic Volume](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume)
-Si el servidor esta fuera de servicio, el archivo csv se encutra en: 
+Si el servidor esta fuera de servicio, el archivo csv se encuentra en la carpeta Build
 
 ## Aplicación del modelo LSTM
 EL modelo LSTM es efectivo para:
