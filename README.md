@@ -14,3 +14,9 @@ Modelar dependencias a largo plazo en secuencias temporales.
 Mantener información relevante a lo largo del tiempo.
 
 A travez de la plataforma de Google Colap se implementa el modelos [LSTM](https://colab.research.google.com/drive/1mCHBRGVsAovWnpP99omv67lm-ZZ7XI2d?usp=sharing)
+
+
+
+
+
+####  creado por Krystian Rodriguez Santos
